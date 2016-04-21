@@ -1,2 +1,2 @@
 # bugbase
-BugBase application
+Simple bug tracking application, primarily as a Java learning projet.
